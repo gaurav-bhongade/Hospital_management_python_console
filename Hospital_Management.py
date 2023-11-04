@@ -1,7 +1,9 @@
 import hashlib
 import datetime
 import mysql.connector
-
+'''
+Work Done
+'''
 # Database connection configuration
 db_config = {
     "host": "localhost",
